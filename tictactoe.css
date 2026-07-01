@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    text-align : center;
+}
+.tic{
+    height : 80px;
+    width : 80px;
+    border-radius : 10px;
+    border : none;
+    background-color: blueviolet;
+    color : red
+}
+#x{
+    height :800px;
+    width : 300px;
+}
+#container{
+    display : flex;
+    justify-content :center;
+    align-items : center;
+}
